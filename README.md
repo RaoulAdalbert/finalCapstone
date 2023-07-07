@@ -24,3 +24,5 @@ Task Manager is a command-line application that allows users to manage tasks, as
 
    ```shell
    git clone https://github.com/your-username/task-manager.git
+
+2. Run the script and follow the instructions on the terminal. Enjoy!
